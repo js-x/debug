@@ -2,8 +2,11 @@
   "name": "@js-x/debug",
   "version": "1.0.0",
   "main": "debug.js",
-  "files": ["debug.js"],
+  "files": [
+    "debug.js"
+  ],
   "dependencies": {
+    "@types/debug": "^4.1.4",
     "debug": "^4.1.1",
     "supports-color": "^6.1.0"
   }
